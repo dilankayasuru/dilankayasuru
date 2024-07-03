@@ -3,7 +3,7 @@
 <h3 align="center">
   I'm a university student pursuing a BEng in Software Engineering and a full stack developer. I have a keen interest in web development and have gained a solid understanding of the MERN stack. Here's a bit more about what I'm currently learning and my skills
 </h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*FGD6BUzzZs1VJLuY.gif">
+<img align="right" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:679/0*FGD6BUzzZs1VJLuY.gif">
 
 # 💫 About Me:
 🌱 I’m currently learning<br>Web Development : Expanding my knowledge in front-end and back-end technologies.<br>Mobile App Development : Building mobile applications.<br>Data Structures : Understanding fundamental data structures and algorithms.<br><br>📚 What I've Learned<br>Web Technologies : HTML, CSS, JavaScript, MERN Stack<br>Back-end Development : Node.js (Express.js)<br>Front-end Frameworks : React.js (MERN Stack)<br>Programming Languages : C#, Python, JavaScript, Java<br>Networking : Built a network using Cisco Packet Tracer<br><br>⚡ Fun fact<br>I'm passionate about learning new technologies and frameworks<br>I'm passionate about learning Three.js to build interactive 3D websites.<br>
