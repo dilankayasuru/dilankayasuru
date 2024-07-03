@@ -1,6 +1,9 @@
-## Hi there 👋
-
-I'm an university student pursuing a BEng in Software Engineering and a full stack developer. I have a keen interest in web development and have gained a solid understanding of the MERN stack. Here's a bit more about what I'm currently learning and my skills:
+![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk5ODIxMzAsIm5iZiI6MTcxOTk4MTgzMCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzAzVDA0NDM1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlhYjRkOTQzNzAxMDIzMjY4MjM3YjE1OWQ3ZTBlNjZhMWUwY2Y3YmVlYjk5NTRjYmYwNGQ2MmI4MGY0ZTU3YWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.nz6Ce7K-6pqL_nqtG9WqNATLNkn-u-n8cHN_s7uJnuw)
+<h1 align="center">Hi there 👋 </h1>
+<h3 align="center">
+  I'm a university student pursuing a BEng in Software Engineering and a full stack developer. I have a keen interest in web development and have gained a solid understanding of the MERN stack. Here's a bit more about what I'm currently learning and my skills
+</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*FGD6BUzzZs1VJLuY.gif">
 
 # 💫 About Me:
 🌱 I’m currently learning<br>Web Development : Expanding my knowledge in front-end and back-end technologies.<br>Mobile App Development : Building mobile applications.<br>Data Structures : Understanding fundamental data structures and algorithms.<br><br>📚 What I've Learned<br>Web Technologies : HTML, CSS, JavaScript, MERN Stack<br>Back-end Development : Node.js (Express.js)<br>Front-end Frameworks : React.js (MERN Stack)<br>Programming Languages : C#, Python, JavaScript, Java<br>Networking : Built a network using Cisco Packet Tracer<br><br>⚡ Fun fact<br>I'm passionate about learning new technologies and frameworks<br>I'm passionate about learning Three.js to build interactive 3D websites.<br>
