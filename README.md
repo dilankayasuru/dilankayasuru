@@ -4,6 +4,8 @@
   I'm a university student pursuing a BEng in Software Engineering and a full stack developer. I have a keen interest in web development and have gained a solid understanding of the MERN stack. Here's a bit more about what I'm currently learning and my skills
 </h3>
 <img align="right" alt="Coding" width="500" src="https://miro.medium.com/v2/resize:fit:679/0*FGD6BUzzZs1VJLuY.gif">
+![](https://komarev.com/ghpvc/?username=dilankayasuru&color=green)
+
 
 # 💫 About Me:
 🌱 I’m currently learning<br>
