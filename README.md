@@ -22,7 +22,4 @@ I'm an university student pursuing a BEng in Software Engineering and a full sta
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dilankayasuru&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
