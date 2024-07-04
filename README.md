@@ -22,7 +22,6 @@
 <p>⚡ Fun fact </p>
 
 * I'm passionate about learning new technologies and frameworks.
-* I'm passionate about learning Three.js to build interactive 3D websites.
 
 
 ## 🌐 Socials: 
