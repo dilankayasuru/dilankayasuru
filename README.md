@@ -1,9 +1,10 @@
-![](https://komarev.com/ghpvc/?username=dilankayasuru&color=brightgreen)
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h3 align="center">Hi there 👋, I'm Dilanka Yasuru</h3>
 <h3 align="center"> I'm a university student studying BEng Software Engineering and a full stack developer </h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 <img align="right" alt="side image" width="400" margin-top="40" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+
+![](https://komarev.com/ghpvc/?username=dilankayasuru&color=brightgreen)
 
 <h3> 💫 About Me: </h3>
 
