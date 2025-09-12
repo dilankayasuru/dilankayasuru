@@ -10,20 +10,23 @@
 
 <p> 🌱 I’m currently learning </p>
 
+* **Data Science:** Exploring data analysis, visualization, and machine learning.
 * **Web Development:** Expanding my knowledge in front-end and back-end technologies.
 * **Mobile App Development:** Building mobile applications.
-* **Data Structures:** Understanding fundamental data structures and algorithms.
 
 <p> 📚 What I've Learned </p>
 
-* **Web Technologies:** HTML, CSS, JavaScript, MERN Stack
-* **Back-end Development:** Node.js (Express.js)
+* **Web Technologies:** HTML, CSS, JavaScript, MERN Stack, PHP, Laravel
+* **Back-end Development:** Node.js (Express.js), PHP (Laravel, Symfony)
 * **Front-end Frameworks:** React.js (MERN Stack)
-* **Programming Languages:** C#, Python, JavaScript, Java
+* **Programming Languages:** PHP, C#, Python, JavaScript, TypeScript
+* **AI & Open Source Models:** Exploring and experimenting with open-source AI models
+* **Mobile App Development:** Building mobile applications with Flutter.
+* **Data Structures:** Understanding fundamental data structures and algorithms.
 
 <p>⚡ Fun fact </p>
 
-* I'm passionate about learning new technologies and frameworks.
+* When I’m not coding, you’ll probably find me chasing sunsets on mountain trails, trekking through forests, or exploring new places with a backpack and endless curiosity. 🌍⛰️✨
 
 
 ## 🌐 Socials: 
